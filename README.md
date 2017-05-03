@@ -1,51 +1,44 @@
-# Constitution of Loomio Cooperative Limited
-Loomio is a [registered cooperative company](https://www.business.govt.nz/companies/app/ui/pages/companies/3971519) in New Zealand.
+# DRAFT: Constitution of Root Systems Limited
 
 ## INTERPRETATION
 
 In this constitution, unless the context otherwise requires:
 
-* “Act” m eans the Companies Act 1993 and its amendments.
-* “s” m eans section references in the Act.
-* “solvency test” means the solvency test in s4 of the Act, as may be modified in accordance with the Act. 
-* “Co-op” or “Company” m eans Loomio Co­operative Limited.
-* “Transacting Shareholder” has the meaning ascribed to it in the Co-operative Companies Act 1996. 
-* “Transacting Share” means a share in the class established by Clause 2.1.
-* Definitions in Act – Words or expressions used in this constitution bear the same meaning as in the Act. “Loomio Co-Op” or “Loomio Co-operative” m eans the Company
-* Masculine, feminine, and neuter – Words which import any gender include the other genders.
-* Singular and plural – Words which import the singular and plural number include the plural and singular number respectively.
-* No limitation – the words “include”, “including” or similar do not imply any limitation.
-* Conflict – If there is a conflict between the provisions of this constitution and a mandatory provision of the Act, the Act shall prevail.
-* ordinary resolution – means a resolution approved by 75% (rounded down to the nearest whole person) o f the votes of those shareholders entitled to vote and voting on that resolution
-* special resolution – means a resolution approved by: (i) 90%; or (ii) if there are less than 30 Transacting Shareholders, 100% minus two votes; of the votes of those shareholders entitled to vote and voting on that resolution
+* "Act" means the Companies Act 1993 and its amendments.
+* "s" means section references in the Act.
+* "solvency test" means the solvency test in s4 of the Act, as may be modified in accordance with the Act.
+* "Co-op" or "Company" means Root Systems Limited.
+* "Transacting Shareholder" has the meaning ascribed to it in the Co-operative Companies Act 1996.
+* "Transacting Share" means a share in the class established by Clause 2.1.
+* Definitions in Act -- Words or expressions used in this constitution bear the same meaning as in the Act. "Root Systems" or "Root Systems Limited" or "Root Systems Co-operative" means the Company
+* Masculine, feminine, and neuter -- Words which import any gender include the other genders.
+* Singular and plural -- Words which import the singular and plural number include the plural and singular number respectively.
+* No limitation -- the words "include", "including" or similar do not imply any limitation.
+* Conflict -- If there is a conflict between the provisions of this constitution and a mandatory provision of the Act, the Act shall prevail.
+* ordinary resolution -- means a resolution approved by 75% (rounded down to the nearest whole person) o f the votes of those shareholders entitled to vote and voting on that resolution
+* special resolution -- means a resolution approved by: (i) 90%; or (ii) if there are less than 30 Transacting Shareholders, 100% minus two votes; of the votes of those shareholders entitled to vote and voting on that resolution
 
-## PART 1 – PURPOSE
-**1.1 The Loomio Co-operative exists to create a world where it’s easy for anyone to participate in decisions that affect them.**
+## PART 1 -- PURPOSE
+**1.1 The Root Systems Co-operative exists to provide stable and excellent work for members.**
 
-With the right collaborative process, groups generate better ideas, decisions and actions than any individual would by themselves. The Loomio Co-operative aims to break down the barriers to participation in decision-making at every level: in neighbourhoods, community organisations, businesses, social movements, and local and national governance.
+We will do excellent work and work with excellent people.
 
-**Co-operative social enterprise**
-The Loomio Co-operative is a social enterprise collectively owned by the people building it. Its principal activity is co-operative and not less than 60% of the voting rights in the Company will be held by its transacting shareholders. Unlike a traditional profit­maximising company, revenue is not an end in itself, but a means towards achieving a core social purpose. A worker-owned Co-operative structure is a powerful way to live our values of collaboration and collective ownership.
-
-**Independent and neutral**
-The Loomio Co-operative is committed to remaining independent so it can provide a neutral place for any group to come together.
+**Co-operative ownership**
+The Root Systems Co-operative is an enterprise which is committed to shared ownership. We believe this agreement leads to the best outcomes for a group working together.  
 
 **Open-source collaboration**
-The Loomio Co-operative aims to develop open-source tools that make collaboration accessible to everyone.
-
-**Adaptive, reflexive, user-driven**
-The Loomio Co-operative aims to develop tools which are iterative, self-reflexive and adaptive, driven by the collective wisdom of the user community.
+The Root Systems Co-operative aims to support open-source tools that make collaboration more accessible to everyone.
 
 **Transparency**
-The Loomio Co-operative will be surrounded by a valued community of users and contributors. This community must be confident that the Loomio Co-operative is doing what it says it is. The Loomio Co-operative is committed to high standards for sharing information and maintaining open books.
+The Root Systems Co-operative will be transparent about how it is operating (where it has resources to facilitate this). We want to share learning and contribute to discourse about how business is done.
 
 **1.2** The Co-op is authorised to apply for registration as a Co-operative company under the Co-operative Companies Act 1996.
 
 *The relationship between the Constitution and the Co-operative Companies Act 1996*
-**1.3** Loomio Co-operative Limited is registered under the Co-operative Companies Act 1996, the Companies Act 1993, and as such shall have the rights, powers, duties and obligations set out in the Co-operative Companies Act 1996, the Companies Act 1993 and this Constitution.
+**1.3** Root Systems Co-operative Limited is registered under the Co-operative Companies Act 1996, the Companies Act 1993, and as such shall have the rights, powers, duties and obligations set out in the Co-operative Companies Act 1996, the Companies Act 1993 and this Constitution.
 **1.4** The Company, the Board, each Director and each Shareholder have the rights, powers, duties and obligations set out in the Companies Act 1993 or the Co-operative Companies Act 1996 except to the extent that they are negated or modified by this Constitution.
 
-## PART 2 – SHARES
+## PART 2 -- SHARES
 
 ### 2 RIGHTS AND POWERS ATTACHING TO SHARES
 **2.1 Transacting Shares**
@@ -62,10 +55,10 @@ Transacting Shares can only be held by a natural person or an organisation who i
 * Employed by the Co-op; or
 * Party to a contract with the Co­op for provision of services to the Co­op; or
 * Has previously been party to a contract with the Co-op for provision of goods or services to the Co-op, and is, in the reasonable opinion of the Board, likely to again contract with the Co-op for the provision of goods or services to the Co-op; and
-* Meets the Loomio Co­operative Membership Eligibility Policy set down by the transacting shareholders from time to time and agreed at a meeting of the shareholders by special resolution.
+* Meets the Root Systems Co-­operative Membership Eligibility Policy set down by the transacting shareholders from time to time and agreed at a meeting of the shareholders by special resolution.
 
 **2.3 Issue of Transacting Shares**
-The board may issue a Transacting Share only to a natural person or organisation who is eligible in accordance with Clause 2.2 (“eligible parties”) and who is either:
+The board may issue a Transacting Share only to a natural person or organisation who is eligible in accordance with Clause 2.2 ("eligible parties") and who is either:
 
 * approved by a resolution of the Board following a recommendation by the Transacting Shareholders (made by special resolution); or
 * specified as a Transacting Shareholder in the initial application for registration of the Co-op.
@@ -97,7 +90,7 @@ Each application for the issue of a Share shall be accompanied:
 **3.2 Initial Share Issue**
 
 The Company must issue the number and class of shares specified in the application for registration to the person or persons named therein.
- 
+
 **3.3 Subsequent Share Issues**
 3.3.1. The board may, with the approval of shareholders by ordinary resolution issue shares, securities that are convertible into shares or options to acquire shares at any time, to any person, in any number, in such classes and on such terms as it thinks fit subject to the provisions of the Act, and this constitution.
 
@@ -146,7 +139,7 @@ Any dividend or distribution due to the holder of a share may be applied in redu
 
 * The names, alphabetically arranged, and the latest known address of each person who is a shareholder; and
 * The number of shares of that class held by each shareholder; and
-* The date of any issue of shares to, or repurchase or redemption of shares from, or transfer of shares by or to, each shareholder and the name of the person to or from whom the shares were transferred. 
+* The date of any issue of shares to, or repurchase or redemption of shares from, or transfer of shares by or to, each shareholder and the name of the person to or from whom the shares were transferred.
 
 6.1.3. An agent may maintain the share register of the Company.
 
@@ -170,7 +163,7 @@ No notice of a trust, whether express, implied, or constructive, may be entered 
 
 6.4.2 The registration of a trustee, executor, or administrator pursuant to this clause does not constitute notice of a trust.
 
-### 7 TRANSFER OF SHARES 
+### 7 TRANSFER OF SHARES
 **7.1 Entry on the Register**
 A share may be transferred by entry of the name of the transferee on the share register.
 
@@ -225,7 +218,7 @@ A distribution may be any one or more of the following:
 
 8.2.3 The offer of shareholder discounts in respect of some or all of the goods and services provided by the Company;
 
-8.2.4 The cancellation or reduction of a shareholder’s liability in relation to a share to be acquired or redeemed by the Company, or as a result of a proposed alteration to this constitution;
+8.2.4 The cancellation or reduction of a shareholder's liability in relation to a share to be acquired or redeemed by the Company, or as a result of a proposed alteration to this constitution;
 
 8.2.5 The purchase or acquisition by the Company of its own shares;
 
@@ -233,7 +226,7 @@ A distribution may be any one or more of the following:
 
 8.2.7 The giving of financial assistance for the purpose of, or in connection with the purchase of its own shares or the shares of its holding Company.
 
-**8.3 Directors’ Certificates and Solvency Test**
+**8.3 Directors' Certificates and Solvency Test**
 The directors who vote in favour of a distribution must sign a certificate stating that, in their opinion, the Company will immediately after the distribution, satisfy the solvency test and the grounds for that opinion. The board must not make a distribution if, after a distribution is authorised and before it is made, the board ceases to be satisfied on reasonable grounds that the Company will, immediately after the distribution is made, satisfy the solvency test.
 
 **8.4 Dividends**
@@ -289,7 +282,7 @@ Before an offer is made pursuant to a resolution under clause 9.3, the Company m
 9.4.4 The offer must be made not less than 10 working days and not more than 12 months after the disclosure document has been sent to each shareholder.
 
 **9.5 Resolutions and Certificate**
-The resolutions referred to in this clause 9.1­9.5 must set out in full the reasons for the directors’ conclusions. The directors who vote in favour of the resolutions must sign a certificate as to the matters set out in it. The board may not make an offer to acquire shares issued by the Company if, after the passing of the resolutions and before the making of the offer the board ceases to be satisfied as to the matters resolved.
+The resolutions referred to in this clause 9.1­9.5 must set out in full the reasons for the directors' conclusions. The directors who vote in favour of the resolutions must sign a certificate as to the matters set out in it. The board may not make an offer to acquire shares issued by the Company if, after the passing of the resolutions and before the making of the offer the board ceases to be satisfied as to the matters resolved.
 
 ### 10 COMPANY MAY HOLD TREASURY STOCK
 Shares issued by the Company which are surrendered or acquired by it shall be deemed cancelled immediately on acquisition unless;
@@ -332,7 +325,7 @@ Transacting Shares may be surrendered at the option of the Co-op in any of the f
 
 11.4.3 The Board finds that a shareholder has:
 
-* Intentionally or repeatedly violated any provision of the Co-op’s Constitution, or policies issued by the Board;
+* Intentionally or repeatedly violated any provision of the Co-op's Constitution, or policies issued by the Board;
 * Taken actions that will materially impede the Co-op from accomplishing its purposes;
 * Taken or threatened actions that are not aligned with the purpose of the Co-op;
 * Wilfully obstructed any lawful purpose or activity of the Co-op and where that purpose or activity is aligned with the purpose of the Co-op; or
@@ -358,11 +351,11 @@ Where the Company exercises a special option to redeem shares in relation to one
 11.8.2 That the consideration for the redemption is fair and reasonable to the remaining shareholders.
 
 **11.9 Resolutions and Certificate**
-The resolutions referred to in this clause 11 must set out in full the reasons for the directors’ conclusions. The directors who vote in favour of the resolutions must sign a certificate as to the matters set out in that certificate.
+The resolutions referred to in this clause 11 must set out in full the reasons for the directors' conclusions. The directors who vote in favour of the resolutions must sign a certificate as to the matters set out in that certificate.
 
 The Company must not exercise an option to surrender or redeem shares if, after the passing of the resolutions and before the option is exercised, the board ceases to be satisfied as to the matters resolved.
 
-## PART 4 – SHAREHOLDERS
+## PART 4 -- SHAREHOLDERS
 ### 12 POWERS OF SHAREHOLDERS
 
 **12.1 Powers reserved to Shareholders**
@@ -435,7 +428,7 @@ The Company need not hold an annual meeting of shareholders if everything requir
 
 A resolution in lieu of a meeting may be signed without any prior notice being given to shareholders and may consist of several documents (including letters, facsimiles, electronic mail or other similar means of communication) in like form each signed or assented to by one or more shareholders.
 
-### 14 PROCEEDINGS AT MEETINGS OF SHAREHOLDERS 
+### 14 PROCEEDINGS AT MEETINGS OF SHAREHOLDERS
 **14.1 Chairperson may be appointed for meeting**
 The shareholders present may choose one of their number to be chairperson of the meeting. The chairperson may (and if so directed by the meeting must) adjourn the meeting from time to time and from place to place. No business may be transacted at any adjourned meeting except the business which was left unfinished at the meeting which was adjourned.
 
@@ -504,7 +497,7 @@ At a meeting of shareholders a poll may be demanded by:
 A poll may be demanded either before or after the vote is taken on a resolution.
 If a poll is taken, votes must be counted according to the votes attached to the shares of each shareholder present in person or by proxy and voting.
 
-The chairperson of a shareholders’ meeting is not entitled to a casting vote.
+The chairperson of a shareholders' meeting is not entitled to a casting vote.
 For the purposes of this clause, the instrument appointing a proxy to vote at a meeting of the Company confers authority to demand or join in demanding a poll and a demand by a person as proxy for a shareholder has the same effect as a demand by the shareholder.
 
 **14.10 Proxies**
@@ -556,7 +549,7 @@ Except as provided in this constitution and the Act, a meeting of shareholders m
 
 (2) to avoid doubt, participation in a meeting includes participation in any matter specified in this schedule or permitted by the constitution of the Company.
 
-## PART 5 – DIRECTORS
+## PART 5 -- DIRECTORS
 ###15 APPOINTMENT AND REMOVAL OF DIRECTORS
 **15.1 Board Membership**
 The Board shall consist of not less than four (4) nor more than fourteen (14) directors, as the Board may from time to time determine, and not less than 40% of Directors must be Transacting Shareholders.
@@ -571,7 +564,7 @@ Subsequent directors of the Company will be elected by ordinary resolution, or a
 
 15.4.1 The board may appoint a director to fill a casual vacancy.
 
-15.4.2 The board may appoint one or more persons who have specific skills or represents the community of Loomio users, as additional directors, provided that the total number of directors will not exceed 14.
+15.4.2 The board may appoint one or more persons who have specific skills or represents the community of Root Systems users, as additional directors, provided that the total number of directors will not exceed 14.
 
 15.4.3 A director appointed under this clause 15.4 holds office until the next annual meeting, but may stand for elections at that meeting.
 
@@ -580,7 +573,7 @@ Membership of the board will be rotated as follows:
 
 15.5.1 No director shall hold office for a period of longer than two years without retiring and offering himself or herself for re-election.
 
-15.5.2 At each annual meeting, at least one third of the currently occupied seats must be up for re-election. 
+15.5.2 At each annual meeting, at least one third of the currently occupied seats must be up for re-election.
 
 15.5.3 For the purpose of the rotation of Directors, persons who became Directors on the same day must retire in the order determined by lot, unless the Board resolves otherwise.
 
@@ -608,7 +601,7 @@ The office of director of the Company is vacated if the person holding that offi
 The Board may from time to time appoint any person to be an additional director, either to fill a casual vacancy or as an addition to the existing directors, who shall hold office only until the next annual meeting.
 
 ### 16 POWERS OF DIRECTORS
-The powers of the Directors will take into account the following unique features of Loomio Co-operative:
+The powers of the Directors will take into account the following unique features of Root Systems Co-operative:
 
 * In carrying out its obligations under the Act and under this Constitution, The Board will at all times carry out its duties with a view to serving the transacting shareholders, and finding ways to involve and engage the transacting shareholders in important decisions.
 * Whenever developing processes to carry out their duties under this Constitution the Board will emphasise collaboration and generate collective wisdom within the shareholding and interest groups.
@@ -631,12 +624,12 @@ Nothing in clause 17.1 limits the power of a director to make provision for the 
 A director must not act, or agree to the Company acting, in a manner that contravenes the Act or this constitution.
 
 **17.4 Reckless trading**
-A director must not cause or allow or agree to the business of the Company being carried on in a manner likely to create a substantial risk of serious loss to the Company’s creditors.
+A director must not cause or allow or agree to the business of the Company being carried on in a manner likely to create a substantial risk of serious loss to the Company's creditors.
 
 **17.5 Duty in relation to obligations**
 A director must not agree to the Company incurring an obligation unless the director believes at that time on reasonable grounds that the Company will be able to perform the obligation when it is required to do so.
 
-**17.6 Director’s duty of care**
+**17.6 Director's duty of care**
 A director when exercising powers or performing duties as a director, must exercise the care, diligence, and skill that a reasonable director would exercise in the same circumstances taking into account, but without limitation 17.6.1 The nature of the Company;
 
 17.6.2 The nature of the decision; and
@@ -649,22 +642,22 @@ A director when exercising powers or performing duties as a director, must exerc
 
 18.1.1 An employee of the Company whom the director believes on reasonable grounds to be reliable and competent in relation to the matters concerned;
 
-18.1.2 A professional advisor or expert in relation to matters which the director believes on reasonable grounds to be within the person’s professional or expert competence;
+18.1.2 A professional advisor or expert in relation to matters which the director believes on reasonable grounds to be within the person's professional or expert competence;
 
-18.1.3 Any other director or committee of directors upon which the director did not serve in relation to matters within the director’s or committee’s designated authority.
+18.1.3 Any other director or committee of directors upon which the director did not serve in relation to matters within the director's or committee's designated authority.
 
 **18.2 Clause 18.1 applies to a director only if the director**
 
 18.2.1 Acts in good faith; and
 
-18.2.2 Makes proper inquiry where the need for inquiry is indicated by the circumstances; and 
+18.2.2 Makes proper inquiry where the need for inquiry is indicated by the circumstances; and
 
 18.2.3 Has no knowledge that such reliance is unwarranted.
 
 ### 19 SELF INTEREST TRANSACTIONS
 **19.1 Interests Register**
 
-19.1.1 A director must, forthwith after becoming aware of the fact that it is interested in a transaction or proposed transaction with the Company, cause to be entered in the interests register, and they disclose to the board the nature and extent of the director’s interest and the monetary value of it if the monetary value of the director’s interest is able to be quantified.
+19.1.1 A director must, forthwith after becoming aware of the fact that it is interested in a transaction or proposed transaction with the Company, cause to be entered in the interests register, and they disclose to the board the nature and extent of the director's interest and the monetary value of it if the monetary value of the director's interest is able to be quantified.
 
 19.1.2 A general notice entered in the interests register and, if the Company has more than one director, disclosed to the board to the effect that a director is a shareholder, director, officer or trustee of another named company or trustee for another named person or company and is to be regarded as interested in any transaction which may, after the date of the entry or disclosure, be entered into with that company or person, is a sufficient disclosure of interest in relation to that transaction.
 
@@ -672,9 +665,9 @@ A director when exercising powers or performing duties as a director, must exerc
 
 19.1.3.1 The transaction or proposed transaction is between the director and the Company; and
 
-19.1.3.2 The transaction or proposed transaction is or is to be entered into in the ordinary course of the Company’s business and on usual terms and conditions.
+19.1.3.2 The transaction or proposed transaction is or is to be entered into in the ordinary course of the Company's business and on usual terms and conditions.
 
-19.1.4 A transaction entered into by the Company in which a director of the Company is interested may be avoided by the Company at any time before the expiration of three months after the transaction is disclosed to all the shareholders (whether by means of the Company’s annual report or otherwise).
+19.1.4 A transaction entered into by the Company in which a director of the Company is interested may be avoided by the Company at any time before the expiration of three months after the transaction is disclosed to all the shareholders (whether by means of the Company's annual report or otherwise).
 
 19.1.5 A transaction cannot be avoided if the Company receives fair value under it.
 
@@ -693,15 +686,15 @@ A director of the Company who is interested in a transaction entered into, or to
 UNLESS t here is an objection from any other director.
 
 ### 20 USE OF COMPANY INFORMATION
-The Company is dedicated to the principles of transparency and openness where possible and appropriate in the treatment of Company information. Directors may distribute and use any information that comes to their attention as directors of the Company except where information is marked ‘confidential’. Where information is marked ‘confidential’ the directors may not release or use that information for any purposes other than in accordance with the purpose of the Co-op.
+The Company is dedicated to the principles of transparency and openness where possible and appropriate in the treatment of Company information. Directors may distribute and use any information that comes to their attention as directors of the Company except where information is marked ‘confidential'. Where information is marked ‘confidential' the directors may not release or use that information for any purposes other than in accordance with the purpose of the Co-op.
 
-Information may only be marked ‘confidential’ in any one or more of the following circumstances, and only if a release date for the information is also displayed clearly on the document:
+Information may only be marked ‘confidential' in any one or more of the following circumstances, and only if a release date for the information is also displayed clearly on the document:
 
-**20.1** In order to assess a document for confidentiality, a single director may mark a document ‘confidential’ for a period of no greater than 48 hours if they consider in good faith that the document may fit into any of the following categories;
+**20.1** In order to assess a document for confidentiality, a single director may mark a document ‘confidential' for a period of no greater than 48 hours if they consider in good faith that the document may fit into any of the following categories;
 
 **20.2** If a document is considered to be commercially sensitive by two or more directors, a document may be marked confidential for a period of no greater than 12 months;
 
-**20.3** If a document contains personal or private information which the Company is required to protect under Privacy legislation, any parts of a document (or if necessary, the entire document) containing identifying information may be marked ‘confidential’ with release instructions including ‘only with the signed consent of [name of individual]’.
+**20.3** If a document contains personal or private information which the Company is required to protect under Privacy legislation, any parts of a document (or if necessary, the entire document) containing identifying information may be marked ‘confidential' with release instructions including ‘only with the signed consent of [name of individual]'.
 
 **20.2 Disclosure and use of information generally**
 A director of the Company may disclose, make use of, or act on Company information if:
@@ -721,7 +714,7 @@ A director of the Company may disclose, make use of, or act on Company informati
 
 21.3.1 A director or, if requested by a director to do so, an employee of the Company, may convene a meeting of the board by giving notice in accordance with clause 21.3.2.
 
-21.3.2 Not less than 2 working days’ notice of a meeting of the board must be sent to every director, whether or not it is in New Zealand, and the notice must include the date, time and place of the meeting and the matters to be discussed.
+21.3.2 Not less than 2 working days' notice of a meeting of the board must be sent to every director, whether or not it is in New Zealand, and the notice must include the date, time and place of the meeting and the matters to be discussed.
 
 21.3.3 An irregularity in the notice of a meeting or a failure to give notice is waived if all directors entitled to receive notice of the meeting attend the meeting without protest as to the irregularity or if all directors entitled to receive notice of the meeting agree to the waiver.
 
@@ -733,7 +726,7 @@ A meeting of the board may be held either:
 21.4.2 By means of audio, or audio and visual, communication by which all directors participating and constituting a quorum, can simultaneously hear each other throughout the meeting.
 
 **21.5 Quorum**
-21.5.1 No business may be transacted at a meeting of the board if a quorum is not present. 
+21.5.1 No business may be transacted at a meeting of the board if a quorum is not present.
 
 21.5.2 A quorum for a meeting of the board is a majority of the directors.
 
@@ -800,7 +793,7 @@ The Company may, with the prior approval of the board, effect insurance for a di
 
 **24.5** The board must ensure that particulars of any indemnity given to, or insurance effected for, any director or employee of the Company or a related company, are entered into the interests register.
 
-##PART 6 – OTHER PROVISIONS
+##PART 6 -- OTHER PROVISIONS
 ### 25 AMENDMENT OF CONSTITUTION
 The shareholders of the Company may, by special resolution, alter or revoke this constitution.
 
@@ -815,7 +808,7 @@ A contract or other enforceable obligation may be entered into by the Company as
 
 26.1.3 One or more attorneys appointed by the company in accordance with s181 of the Act.
 
-**26.2** An obligation which, if entered into by a natural person, is by law, required to be in writing, may be entered into on behalf of the company in writing by a person acting under the Company’s express or implied authority. 26.3 An obligation which, if entered into by a natural person, is not, by law, required to be in writing, may be entered into on behalf of the Company in writing or orally by a person acting under the Company’s express or implied authority.
+**26.2** An obligation which, if entered into by a natural person, is by law, required to be in writing, may be entered into on behalf of the company in writing by a person acting under the Company's express or implied authority. 26.3 An obligation which, if entered into by a natural person, is not, by law, required to be in writing, may be entered into on behalf of the Company in writing or orally by a person acting under the Company's express or implied authority.
 
 ### 27 COMPANY RECORDS
 The Company must keep the following documents at its registered office:
@@ -826,7 +819,7 @@ The Company must keep the following documents at its registered office:
 
 **27.3** An interests register;
 
-**27.4** Minutes of all meetings and resolutions of directors and directors’ committees within the last 7 years;
+**27.4** Minutes of all meetings and resolutions of directors and directors' committees within the last 7 years;
 
 **27.5** Certificates given by directors under the Act within the last 7 years;
 
@@ -887,4 +880,3 @@ The board of the Company must cause accounting records to be kept that:
 
 ### 31 NOTICES
 Notices, statements, reports, accounts, or other documents must be served in accordance with Part XXII of the Act.
-
