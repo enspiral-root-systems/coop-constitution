@@ -19,18 +19,9 @@ In this constitution, unless the context otherwise requires:
 * special resolution -- means a resolution approved by: (i) 90%; or (ii) if there are less than 30 Transacting Shareholders, 100% minus two votes; of the votes of those shareholders entitled to vote and voting on that resolution
 
 ## PART 1 -- PURPOSE
-**1.1 The Root Systems Co-operative exists to provide stable and excellent work for members.**
 
-We will do excellent work and work with excellent people.
-
-**Co-operative ownership**
-The Root Systems Co-operative is an enterprise which is committed to shared ownership. We believe this agreement leads to the best outcomes for a group working together.  
-
-**Open-source collaboration**
-The Root Systems Co-operative aims to support open-source tools that make collaboration more accessible to everyone.
-
-**Transparency**
-The Root Systems Co-operative will be transparent about how it is operating (where it has resources to facilitate this). We want to share learning and contribute to discourse about how business is done.
+**1.1 The Root Systems Co-operative exists to...**
+// TODO: Fill in Root Systems Purpose
 
 **1.2** The Co-op is authorised to apply for registration as a Co-operative company under the Co-operative Companies Act 1996.
 
